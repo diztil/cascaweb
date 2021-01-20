@@ -1,0 +1,26 @@
+/*
+A dark background for a webpage, with a gradient feature.
+@author dmimukto 2020
+*/
+
+body {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  text-color: white;
+  text-shadow: 0 0 3px #00FA9A;
+  background-color: #55efc4;
+  background-image: linear-gradient(180deg, #55efc4 0%, #000000 14%);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*
+You need to insert the button and function in "dark_activator.html"
+to smoothly activate the dark mode.
+*/
