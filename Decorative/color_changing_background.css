@@ -1,5 +1,5 @@
 /*
-Color-changing/Gaming/RGB Background for websites
+Color-changing/Gaming/RGB Background for websites.
 @author dmimukto 2020
 */
 
@@ -50,3 +50,8 @@ The "300% 300%" attributes can be manipulated as you wish. Please note that the 
 		background: #ff9b85;
 	}
 }
+
+/*
+You need to insert the button and function in "rgb_activator.html"
+to smoothly activate the dark mode.
+*/
