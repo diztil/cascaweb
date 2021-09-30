@@ -1,0 +1,358 @@
+.main-sidebar .emoji, .vertical.menu .item .emoji {
+    display: none !important;
+}
+body {
+  color: #8e2736;
+  font-size: 10px;
+}
+body .ui.menu.main-menu {
+      padding-top: 5px;
+      padding-bottom: 5px;
+      background: #8e2736;
+      border-bottom: 1px solid #000;      
+    }
+
+    .notifications-dropdown {
+      margin-top: 10px !important;
+    }
+  
+        body .ui.button:hover {
+          background-color: hsl(100, 100%, 100%)
+        }   
+
+
+        body .ui.buttons .button,
+        body .ui.button {
+          background-color: #ffffff;
+          color: #fff;
+        }
+
+        body .ui.buttons .button:hover,
+        body .ui.button:hover {
+          background-color: hsl(100, 100%, 100%);
+          color: #fff;
+        }
+
+        body .ui.buttons .button:focus,
+        body .ui.button:focus {
+          background-color: hsl(100, 100%, 100%);
+          color: #fff;
+        }
+        body .ui.buttons .button:active,
+        body .ui.button:active {
+          background-color: hsl(100, 100%, 100%);
+          color: #fff;
+        }
+        body .ui.buttons .active.button,
+        body .ui.buttons .active.button:active,
+        body .ui.active.button,
+        body .ui.button .active.button:active {
+          background-color: hsl(100, 100%, 100%);
+          color: #fff;
+        }
+
+        body .ui.basic.buttons .button,
+        body .ui.basic.button {
+          box-shadow: 0px 10px 0px 1px #ffffff inset !important;
+          color: #000000 !important;
+        }
+        body .ui.basic.buttons .button:hover,
+        body .ui.basic.button:hover {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        body .ui.basic.buttons .button:focus,
+        body .ui.basic.button:focus {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        body .ui.basic.buttons .active.button,
+        body .ui.basic.active.button {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        body .ui.basic.buttons .button:active,
+        body .ui.basic.button:active {
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        .ui.buttons:not(.vertical) > .basic.button:not(:first-child) {
+          margin-left: -1px;
+        }   
+
+        body .ui.labeled.button>.label {
+          border-color: #000000
+        }     
+
+      
+        body .ui.primary.button:hover {
+          background-color: hsl(0, 100%, 34.5%)
+        }   
+
+
+        body .ui.primary.buttons .button,
+        body .ui.primary.button {
+          background-color: #8e2736;
+          color: #fff;
+        }
+
+        body .ui.primary.buttons .button:hover,
+        body .ui.primary.button:hover {
+          background-color: hsl(0, 100%, 34.5%);
+          color: #fff;
+        }
+        body .ui.primary.buttons .button:focus,
+        body .ui.primary.button:focus {
+          background-color: hsl(0, 100%, 33.4%);
+          color: #fff;
+        }
+        body .ui.primary.buttons .button:active,
+        body .ui.primary.button:active {
+          background-color: hsl(0, 89.2%, 32.6%);
+          color: #fff;
+        }
+        body .ui.primary.buttons .active.button,
+        body .ui.primary.buttons .active.button:active,
+        body .ui.primary.active.button,
+        body .ui.primary.button .active.button:active {
+          background-color: hsl(0, 100%, 34.5%);
+          color: #fff;
+        }
+
+
+        body .ui.basic.primary.buttons .button,
+        body .ui.basic.primary.button {
+          box-shadow: 0px 0px 0px 1px #8e2736 inset !important;
+          color: #af0a0a !important;
+        }
+        body .ui.basic.primary.buttons .button:hover,
+        body .ui.basic.primary.button:hover {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 100%, 34.5%) inset !important;
+          color: hsl(0, 100%, 34.5%) !important;
+        }
+        body .ui.basic.primary.buttons .button:focus,
+        body .ui.basic.primary.button:focus {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 100%, 33.4%) inset !important;
+          color: hsl(0, 100%, 34.5%) !important;
+        }
+        body .ui.basic.primary.buttons .active.button,
+        body .ui.basic.primary.active.button {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 100%, 34.5%) inset !important;
+          color: hsl(0, 89.2%, 32.6%) !important;
+        }
+        body .ui.basic.primary.buttons .button:active,
+        body .ui.basic.primary.button:active {
+          box-shadow: 0px 0px 0px 1px hsl(0, 89.2%, 32.6%) inset !important;
+          color: hsl(0, 89.2%, 32.6%) !important;
+        }
+        .ui.buttons:not(.vertical) > .basic.primary.button:not(:first-child) {
+          margin-left: -1px;
+        }   
+
+        body .ui.labeled.primary.button>.label {
+          border-color: #8e2736
+        }     
+
+        body i.blue.icon {
+          color: #8e2736 !important;
+        }    
+
+        body i.blue.icon.inverted {
+          color: #ffffff !important;
+        }
+
+      
+        body .ui.positive.button:hover {
+          background-color: hsl(0, 0%, 0%)
+        }   
+
+
+        body .ui.positive.buttons .button,
+        body .ui.positive.button {
+          background-color: #000000;
+          color: #fff;
+        }
+
+        body .ui.positive.buttons .button:hover,
+        body .ui.positive.button:hover {
+          background-color: hsl(0, 0%, 0%);
+          color: #fff;
+        }
+        body .ui.positive.buttons .button:focus,
+        body .ui.positive.button:focus {
+          background-color: hsl(0, 0%, 0%);
+          color: #fff;
+        }
+        body .ui.positive.buttons .button:active,
+        body .ui.positive.button:active {
+          background-color: hsl(0, 0%, 0%);
+          color: #fff;
+        }
+        body .ui.positive.buttons .active.button,
+        body .ui.positive.buttons .active.button:active,
+        body .ui.positive.active.button,
+        body .ui.positive.button .active.button:active {
+          background-color: hsl(0, 0%, 0%);
+          color: #fff;
+        }
+
+
+        body .ui.basic.positive.buttons .button,
+        body .ui.basic.positive.button {
+          box-shadow: 0px 0px 0px 1px #000000 inset !important;
+          color: #000000 !important;
+        }
+        body .ui.basic.positive.buttons .button:hover,
+        body .ui.basic.positive.button:hover {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        body .ui.basic.positive.buttons .button:focus,
+        body .ui.basic.positive.button:focus {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        body .ui.basic.positive.buttons .active.button,
+        body .ui.basic.positive.active.button {
+          background: transparent !important;
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        body .ui.basic.positive.buttons .button:active,
+        body .ui.basic.positive.button:active {
+          box-shadow: 0px 0px 0px 1px hsl(0, 0%, 0%) inset !important;
+          color: hsl(0, 0%, 0%) !important;
+        }
+        .ui.buttons:not(.vertical) > .basic.positive.button:not(:first-child) {
+          margin-left: -1px;
+        }   
+
+        body .ui.labeled.positive.button>.label {
+          border-color: #000000
+        }     
+
+      
+        body a {
+          color: #af0a0a
+        }
+
+        body a:hover {
+          color: hsl(0, 89.2%, 29%)
+        }
+      
+      body .ui.menu .item {
+        color: #af0a0a
+      }
+    
+    .ui.header, body, .ui.menu, .ui.button,
+      h1, h2, h3, h4, h5, .ui.fluid, .item .header, .label, .value,
+      button, input, optgroup, select, textarea,
+      .main-navbar .item {
+      font-family: Google Sans, "Google Sans", Roboto, Arial, Comic Sans MS, monospace, sans-serif !important;
+      }
+    
+    .main-sidebar .emoji, .vertical.menu .item .emoji {
+    display: none !important;
+}
+[class="ui message answer-list-item-selected-option"] { background-color: #333 !important; color: #af0a0a !important;}
+.html {
+  background-color: #000;
+}
+head, a, .m2dal-c2ntent, .m2dal-header, .m2dal-footer, .m2dal-l.itplylst, m2dal-body {
+}
+
+  h1, h2, h3, h4, h5, h6, [class="ellipsis horizontal icon"], [class="edit outline icon"], [class="ui header"], [class="ui basic circular fluid button"], [href], [class="comment_5e3d7aa8d30a8f64bbe0a28a__control"], [class="actions"], DIV
+[class="text"], DIV[class="title"], [class="sub header"], [class="comment_5e73b50d49d7104be0039e1c__highlighter"], DIV[class="ui top aligned page modals dimmer transition visible active"], [class="ui header"], DIV[class="response-list"], DIV[class="actions"], DIV[class="content"], [class="ui fluid image"], I[class="user circular icon float-left answer-anonymous-icon"], DIV[class="description"], [class="ui pointing dropdown feed-type-filter"],  SPAN[role="menu"], [role="generic"], SPAN[role="menuitem"], [class="actions"], [class="ui tiny statistic"], [class="a"], .ui.comments, .actions, .comment, a
+ {
+ color: #af0a0a !important;
+}    
+
+  .code-editor-wrapper {
+background-color: #222 !important;
+    color: #af0a0a;
+    backdrop-filter: blur(9px) !important;
+  }
+.code-editor-wrapper {
+  font-family: "Google Sans", Roboto, Arial !important;
+    background-image: url("https://curriculums.everfi.net/vault-html5/2_7_4/assets/images/common/conclusion/paper.gif");
+     background-repeat: no-repeat;
+    background-position: center;
+     background-size: cover;
+ 
+}
+img[src="https://curriculums.everfi.net/vault-html5/2_7_4/assets/images/common/conclusion/paper.gif"] {
+   -webkit-filter: invert(1) !important;
+  filter: invert(1) !important;
+   }
+input, select, textarea {
+    background-color: #222 !important;
+    color: #af0a0a !important;
+}
+textarea {
+background-color: #222 !important;
+color: #af0a0a !important;
+}
+input[type="text"], [class="ui basic circular fluid button"] {
+  background-color: #000000 !important;
+  color: #af0a0a !important;
+  border: none !important;
+  backdrop-filter: blur(9px) !important;
+  
+}
+[class="menu transition visible"], [class="menu"], [role="action"], [class="visible menu transition"], [class="scrolling menu transition"], [type="text"], [class="dg-widget dg-widget-button"], [class="ck ck-reset_all ck-body ck-rounded-corners"], .ui.a {
+background-color: #8e2736 !important;
+backdrop-filter: blur(9px) !important;
+color: #fff !important;
+border: 2px #8e2736 !important;
+}
+DIV[class="actions"], [role="menu"], [class="text"], B {
+color: !important;
+}
+[class="ui page modals dimmer transition visible active"] {
+backdrop-filter: blur(10px) !important;
+}
+
+A[class="item header-home-link"], SRC[href="/"], [accesskey="h"], A[class="item header-home-link"], A[class="item header-home-link active"], [class="item notification-bell notification-bell-active"] {
+color: #fff !important;
+}
+div [class="ui secondary menu"], div [class="ui menu"], div [class="menuitem"], div [class="ui horizontal middle aligned list"] , div [class="ui divider"], div [class="ui segments"], div [class="ui clearing segment editor-footer-wrapper"], h5 [class="ui header"], a[class="active item content-input-tab content-input-tab-post"], [class="ui clearing segment"], [class="ui segments"], [class="simple-post-title-input__highlighter"], [class="ui form simple-post-create-form"], [class="content-create-form-footer-wrapper"], [class="ui segment active tab"], [class="content card-head"], [class="ui center aligned segment user-reputation"], [class="content post-title"], [class="content card-footer middle aligned"], [class="extra content card-footer"], [class="ui tiny basic button comment-button"], [class="content"], [class="actions"], [class="ui info message"], [class="extra content"], [class="ui basic circular fluid primary button" ], [class="question-title"], [class="content post-content"], a [href="/post/5e6f9987e0fdf44b8c916df0"], [class="blue check tiny circula... icon verification-icon"], div [class="content post-title"], [class="ui stackable menu"], [class="ui icon message"], [class="ui checkbox"], LABEL, [class="header"], a [class="menu transition visible"], BLOCKQUOTE, [class="ltr"], [class="comment post-item response-list-item"], [class="comment post-item response-list-item post-item-indented"], [class="ui segment ask-prompt no-padding"], [class="notifications-header"], [class="author"], [class="actions reponse-item-actions"], [class="ui center aligned segment"], CODE, [class="prompt"], [class="d-flex align-items-center justify-content-center"], [class="label"], [class="content answer-content"], [class="content answer-question-title-wrapper"], [class="ui selection dropdown"], [class="result"], [class="message empty"], [class="ui form post-comment-form-wrapper"], [class="response-list"], [class="label"], [class="actions"], [class="mr-2 ml-0 block float-left text-sm-1 outline  icon heart vertical"], [class="comment_5e7255f3f62a33042984370a__control"], [class="comment_5e718c7d804d91490428be9d__control"], BUTTON, DIV [class="content"], [class="ck ck-toolbar__items"], DIV [class="post-editor-content-input"], [class="ck ck-toolbar ck-toolbar_grouping"], DIV [class="ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-blurred"], DIV [class="field"], DIV [class="ck ck-dropdown ck-toolbar__grouped-dropdown ck-toolbar-dropdown"], [class="ck ck-reset ck-editor ck-rounded-corners"], [class="ck ck-sticky-panel__content"], [class="ui clearing segment topic-header"], a [class="item"], [class="ui selection relaxed list"], [class="ui clearing secondary segment"], [class="ui form"], [class="ui clearing bottom attached segment active tab"], DIV[class="column"], [class="right aligned column"], [class="image scrolling content"], [class="ui fluid card"], [class="ui feed transactions-list"], [class="ui left aligned segment"], [class="ui message"], A[class="ui large circular fluid primary button"][href="/redeem"], [class="ui bottom attached segment active tab"], [class="ui clearing segment feed-topic-header"], [class="scrolling content"], DIV[id="crisp-chatbox"][class="crisp-1rjpbb7"], TEXTAREA[class="crisp-12w4w1a crisp-1aiychk crisp-14ixsrp crisp-9dgo7z"][name="message"], [class="ui left aligned segment"], SPAN[Reply], [class="actions"], [class="link-preview-html"], [class="ui fluid vertical menu"], DIV[class="ck ck-content ck-editor__editable ck-rounded-corners ck-editor__editable_inline ck-blurred"], DIV[class="ui fluid multiple search selection upward dropdown"], DIV [class="ui fluid dropdown"], [class="link-preview-description"], [class="link-preview-text"], [class="link-preview-title"], [class="line"], [class="ui fluid placeholder"], [class="crisp-1rf4xdh crisp-k5ll1j"], [class="image-header"], [class="ui fluid card post-item post-list-item"], [class="question-poll-item"], I[class="mr-2 ml-0 block float-left text-sm-1 outline icon heart vertical"], [class="notifications-header"], [class="ui bottom right popup transition visible notifications-dropdown"], [class="summary"], [class="ui feed notifications-list"], A[href="/notifications"], DIV[class="content answer-status-info"], DIV[class="content reward-message"], [class="question-poll-item-bar"], DIV[class="ui message rounded-0 cookie-consent"], DIV[class="ui clearing segment user-profile-header"], DIV[class="ui segments group-featured-members"], DIV[class="ui segment group-featured-members-header"], DIV[class="ui segment group-add-members"], DIV[class="ui segment group-members-list"], DIV[class="ui segment preview-panel"], DIV[class="css-1vinbbf"], DIV [class="ui clearing secondary segment form-answer-buttons"], DIV[class="ui left icon input group-picker-search-input"], DIV[role="listitem"], DIV[class="ui segment"], [role="link"], [class="ui mini pointing attached three item menu"]
+
+
+ {
+background-color: #fff !important;
+color: #8e2736 !important;
+active-color: #fff !important;
+}
+[class="link-preview-url"] {
+color: #fff !important;
+}
+[class="active item"], SPAN[class="item main-sidebar-item active"], [class="active item content-input-tab content-input-tab-post"], [class="ui basic circular fluid primary button"], I[class="blue check tiny circular inverted icon verification-icon"], [class="ui divided horizontal link list"], [class="text-badge text-badge-bronze"], A[class="ui big fluid primary button"][href="/login"],  A[class="active item content-input-tab content-input-tab-post"], A[class="ui large primary button"][href="/answer"], [class="question-poll-item-background"], A[class="active item content-input-tab content-input-tab-post"], [class="item notification-bell"], A[class="question-poll-item-radio"]
+ {
+background-color:  !important;
+color: #fff !important;
+[class="item notification-bell"], 
+A[class="item header-home-link"], A[class="item header-home-link active"] { background-color: #8e2736 !important; color: #000 !important;}
+}
+[class="ui large primary right floated button"] {
+background-color: #fff !important;
+color: #8e2736 !important;
+}
+ {
+color: #fff !important;
+}
+
+
+
+ body {cursor: url(https://www.freeiconspng.com/img/1120),auto;}
+ .ui.fluid.card {background-color: #222; color:#af0a0a;}
+ DIV[class="ui fluid card post-item post-list-item"], DIV[class="ui fluid card"], DIV[class="ui segment"], DIV[class="ui segments"], DIV[class="ui center aligned segment"], DIV[class="ui center aligned segment user-reputation"], DIV[class="ui segment active tab"], DIV[class="ui clearing segment"], DIV[class="ui menu"], DIV[class="ui segments share-box-segment"], DIV[class="ui"], DIV[class="swiper-slide swiper-slide-active"], DIV[class="ui info message"], DIV[class="ui secondary menu"], DIV[class="nine wide computer twelve wide tablet column"] {
+ border: 3px solid !important;
+ }
